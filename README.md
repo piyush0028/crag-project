@@ -1,5 +1,7 @@
 # Corrective Retrieval Augmented Generation (CRAG) System
 
+**Live Demo**: [https://crag-project.vercel.app/](https://crag-project.vercel.app/)
+
 ## Overview
 This project implements a Corrective Retrieval Augmented Generation (CRAG) system designed to accurately answer user queries based on a specialized knowledge base. The system utilizes a multi-step pipeline to retrieve documents, evaluate their relevance, and dynamically rewrite search queries if the initial context is deemed insufficient. This self-correcting mechanism ensures high accuracy and reliability in the generated responses.
 
