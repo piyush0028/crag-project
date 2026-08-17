@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node
+frontend/node_modules/
+
+# Mac OS
+.DS_Store
+
+# Explicitly KEEP the chroma_db folder so your database goes to GitHub
+!chroma_db/
+!chroma_db/**
